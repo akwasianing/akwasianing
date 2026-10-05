@@ -54,5 +54,4 @@ Expected December 2026
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/obeda5)
 - [GitHub](https://github.com/akwasianing)
