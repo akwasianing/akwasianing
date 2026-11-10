@@ -1,4 +1,4 @@
-# Hi, I'm Obed Akwasi Aning 👋
+# Hi, I'm Obed Akwasi Aning 
 
 **Data Scientist | Healthcare & Biomedical Analytics | Machine Learning & Applied AI**
 
