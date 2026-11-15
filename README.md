@@ -1,4 +1,5 @@
-# Hi, I'm Obed Akwasi Aning 
+
+# Hi, I'm Obed Akwasi Aning
 
 **Data Scientist | Healthcare & Biomedical Analytics | Machine Learning & Applied AI**
 
@@ -11,6 +12,10 @@ I build reproducible data science and applied AI systems for healthcare, biomedi
 ### [HeartTrialTwin](https://github.com/akwasianing/HeartTrialTwin)
 
 An experimental research prototype for classifying heart-failure clinical-trial discontinuation. It combines PostgreSQL data extraction, temporal validation, structured features and eligibility-text TF-IDF, a frozen logistic-regression model, integrity checks, transparent contributions, and a Streamlit human-review workflow.
+
+### [Hypertension Alert System for Pregnancy](https://github.com/akwasianing/hypertension-alert-pregnancy)
+
+A collaborative clinical workflow-support prototype developed for Hack-A-Roo 2026. Built with Python and Streamlit, it combines rule-based severe-hypertension episode tracking, reassessment reminders, escalation, unit and bedside dashboards, and draft EMR documentation. I developed synthetic patient scenarios, contributed to the coupled workflow simulation, and evaluated baseline versus alert-supported workflows using matched-patient comparisons and sensitivity analysis. The evaluation uses synthetic data and assumed workflow improvements; the system is not intended for clinical use.
 
 ### [Clinical Decision Support RAG for Type 2 Diabetes](https://github.com/akwasianing/clinical-decision-support-rag-diabetes)
 
@@ -48,8 +53,8 @@ Git | GitHub | Jupyter | pytest | REDCap
 
 ## 🎓 Education
 
-**M.S. Data Science & Analytics**<br>
-University of Missouri–Kansas City (UMKC)<br>
+**M.S. Data Science & Analytics**  
+University of Missouri–Kansas City (UMKC)  
 Expected December 2026
 
 ## Connect
