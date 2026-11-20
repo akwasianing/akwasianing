@@ -5,7 +5,9 @@
 
 ## About Me
 
-I build reproducible data science and applied AI systems for healthcare, biomedical research, and decision support. My work spans interpretable machine learning, temporal evaluation, retrieval-augmented generation, biomedical NLP, and interactive data applications, with an emphasis on provenance, human review, and responsible use.
+I build data analytics, machine learning, and applied AI solutions for business operations, healthcare, and biomedical research. My work includes SQL-based analysis, data cleaning and validation, interactive dashboards, predictive modeling, and decision-support applications using Python, SQL, PySpark, Power BI, and Tableau.
+
+I'm particularly interested in turning complex datasets into reliable insights that support business decisions, improve operational efficiency, and address healthcare challenges. My projects emphasize reproducibility, clear documentation, and practical applications of data science.
 
 ## Featured Projects
 
